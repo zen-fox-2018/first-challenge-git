@@ -11,4 +11,4 @@ Saya ingin berganti karir dengan menjadi seorang developer professional
 Saya sangat ingin bekerja secara remote, dapat berkililing dunia sambil bekerja.
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
-Harapan saya melalui hacktiv8 saya dapat mewujudkan mimpi saya.
+Harapan saya melalui hacktiv8 saya dapat mewujudkan mimpi saya. 
