@@ -11,4 +11,4 @@ pengen jadi CTO ato VP Engineering
 dapet fundamental programming yang baik
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
-tempat duduk saya jgn di ujung/pojok ya..
+tempat duduk saya jgn di ujung/pojok ya...
