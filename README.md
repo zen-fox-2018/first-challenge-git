@@ -1,6 +1,6 @@
 [//]: # (Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya)
 ## Latar Belakang
-Lulusan perhotelan tahun 2017. Pernah magang selama kurang lebih 6 bulan di EAST hotel, Beijing.
+Saya belajar International Hospitality Management selama masa 3 tahun kuliah saya dan lulus di tahun 2017. Saya hanya pernah magang selama kurang lebih 6 bulan di EAST hotel, Beijing.
 
 [//]: # (Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
 ## Motivasi
